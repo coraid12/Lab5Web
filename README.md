@@ -104,7 +104,22 @@
 
   ![22](https://user-images.githubusercontent.com/56239989/115998275-b158b380-a610-11eb-882d-60f2e3032305.jpg)
 
-5. Form Button
+**5. Form Button**
 
-  - Kodenya
+  - **Kodenya, untuk syntax document.lastModified menunjukan/memunculkan waktu terakhir modifikasi**
 
+  ![11](https://user-images.githubusercontent.com/56239989/115998718-ccc4be00-a612-11eb-81bb-a145c6b87c56.jpg)
+
+  - **Hasilnya, Warna background dan warna text akan berganti saat tombol di tekan**
+  
+  ![22](https://user-images.githubusercontent.com/56239989/115998722-d3533580-a612-11eb-9ff9-21f16d71c2b3.jpg)
+
+**6. Pilihan menggunakan checkbox dengan perhitungan otomatis**
+
+  - **Kodenya**
+
+  ![11](https://user-images.githubusercontent.com/56239989/115998897-bbc87c80-a613-11eb-92fc-01f8dfccedd9.jpg)
+
+  - **Hasilnya , total nilai dari harga makanan yang dapat dipilih dengan melakukan check pada checkbox.**
+  
+  ![22](https://user-images.githubusercontent.com/56239989/115998925-e1558600-a613-11eb-85f7-cafdfb53ff8e.jpg)
