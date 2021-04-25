@@ -1,6 +1,8 @@
 # Lab5Web
 NAMA  : FAHMI PRAYOGA
+
 NIM   : 311910682
+
 KELAS : TI.19.A.2
 ## Langkah - Langkah
 **1. Buat file baru dengan nama lab5_javasscript.html dan masukan coding berikut**
@@ -126,3 +128,14 @@ KELAS : TI.19.A.2
   - **Hasilnya , total nilai dari harga makanan yang dapat dipilih dengan melakukan check pada checkbox.**
   
   ![22](https://user-images.githubusercontent.com/56239989/115998925-e1558600-a613-11eb-85f7-cafdfb53ff8e.jpg)
+# Pertanyaan dan Tugas
+**1. Buat script untuk melakukan validasi pada isian form**
+
+  - **Kode yang dipakai**
+
+  ![11](https://user-images.githubusercontent.com/56239989/115999552-6d68ad00-a616-11eb-80a3-281caaf20f59.jpg)
+  
+  - **Hasilnya, jika data kurang lengkap**
+
+  ![22](https://user-images.githubusercontent.com/56239989/115999574-8ec99900-a616-11eb-943b-49e4467e1f9f.jpg)
+
