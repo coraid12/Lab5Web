@@ -58,8 +58,30 @@
 
 **1. Operasi dasar aritmatika**
 
-  - Kodenya
+  - **Kodenya**
 
+  ![1](https://user-images.githubusercontent.com/56239989/115990241-557c3380-a5ec-11eb-97a4-f4b66ec97c13.jpg)
+
+  - **Hailnya**
+
+  ![2](https://user-images.githubusercontent.com/56239989/115990247-5b721480-a5ec-11eb-9fbb-bc04edb3ee19.jpg)
+
+**2. Seleksi Kondisi if-else**
+
+  - **Kodenya**
+
+  ![3](https://user-images.githubusercontent.com/56239989/115990261-70e73e80-a5ec-11eb-85d3-1665286046f5.jpg)
+
+  - **Kita masukan nilai**
+
+  ![4](https://user-images.githubusercontent.com/56239989/115990290-92482a80-a5ec-11eb-8cf7-a2e0202a1b5e.jpg)
+
+  - **Jika hasilnya diatas 60 = lulus Jika tidak = tidak lulus**
+
+  ![5](https://user-images.githubusercontent.com/56239989/115990312-ac820880-a5ec-11eb-97a0-d956f59e4bbc.jpg)
+
+3. Penggunaan Operator switch untuk seleksi kondisi
   
+  - Kodenya
 
 
