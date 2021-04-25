@@ -80,8 +80,31 @@
 
   ![5](https://user-images.githubusercontent.com/56239989/115990312-ac820880-a5ec-11eb-97a0-d956f59e4bbc.jpg)
 
-3. Penggunaan Operator switch untuk seleksi kondisi
+**3. Penggunaan Operator switch untuk seleksi kondisi**
   
-  - Kodenya
+  - **Kodenya**
 
+  ![11](https://user-images.githubusercontent.com/56239989/115997650-1959ca80-a60e-11eb-8149-fc4a3cc24b58.jpg)
+
+  - **Contoh pengoprasian, kita masukan angka 1 - 5**
+  
+  ![22](https://user-images.githubusercontent.com/56239989/115997660-270f5000-a60e-11eb-91f8-fef8eaba38eb.jpg)
+
+  - **Hasilnya**
+
+  ![33](https://user-images.githubusercontent.com/56239989/115997671-355d6c00-a60e-11eb-910b-ffcd60539200.jpg)
+
+**4. Form Input**
+
+  - **Kodenya**
+
+  ![11](https://user-images.githubusercontent.com/56239989/115998263-a4d45b00-a610-11eb-9b72-dd24fb645605.jpg)
+
+  - **Hasilnya jika user memasukan input angka ganjil maka menghasilkan output "bilangan ganjil"**
+
+  ![22](https://user-images.githubusercontent.com/56239989/115998275-b158b380-a610-11eb-882d-60f2e3032305.jpg)
+
+5. Form Button
+
+  - Kodenya
 
